@@ -1,5 +1,5 @@
 # Statistics_final_project
-108-2 NTUIM course: Statistics
+107-2 NTUIM course: Statistics
 
 ## final project
 ### Forecast the number of tourists
